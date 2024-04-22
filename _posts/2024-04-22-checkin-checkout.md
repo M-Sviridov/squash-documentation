@@ -30,3 +30,31 @@ categories: quotidien
     - Frigos (si besoin de remplir, nouvelles bouteilles toujours au fond derriere les plus vieilles)
     - Bar (citrons, snacks, sucre, serviettes, mouchoirs, etc.)
   - Sortir parasol / coussin si meteo est bonne et remettre chaises
+
+# Check out
+
+- Remise en ordre du bar / club house avant fermeture (rangement vaisselle, chaises / tables, tablette sur port de chargement, téléphone et machine UPS sur leur socle)
+- Remise en ordre de la cour (rentrer parasol, vider cendriers, mettre chaises adossées aux tables)
+- Fermeture de Caisse
+  - Edition et préparation remise
+  - Vérification des montants
+  - Impression de la fiche de caisse
+  - Rangement dans pochette du jour
+  - Ronde de Fermeture (Vérification Etat général)
+  - Ranger les bouteilles consignées vides dans le placard
+  - Récupération des bouteilles vides, savons, shampoings, objets laissés
+  - Court rouge
+  - mole central
+  - court Vert
+  - WC
+  - espace cardio (éteindre ventilateur)
+  - Tremplin
+  - vestiaires femmes
+  - sauna / wellness (éteindre lumière)
+  - vestiaires Hommes
+  - Espace carrosses (éteindre ventilateur, chauffage)
+  - court Bleu (sortir serpillères)
+  - club house
+- Fermeture lumières (vérifier extinction du sauna)
+- Fermeture portes vitrées interne
+- Fermeture portes et portail
