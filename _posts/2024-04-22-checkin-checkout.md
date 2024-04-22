@@ -49,8 +49,8 @@ categories: quotidien
   - WC
   - espace cardio (éteindre ventilateur)
   - Tremplin
-  - vestiaires femmes
-  - sauna / wellness (éteindre lumière)
+  - Vestiaires femmes
+  - Sauna / wellness (éteindre lumière)
   - vestiaires Hommes
   - Espace carrosses (éteindre ventilateur, chauffage)
   - court Bleu (sortir serpillères)
